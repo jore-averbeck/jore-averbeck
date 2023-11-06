@@ -3,9 +3,9 @@
 Hello, i'm Jore (Pronouns: he/him) and I have a strong enthusiasm for coding! Your nerd with soft skills 🤖
 
 ## Facts:
-- Bachelor and Master degree in the social sciences
+- Bachelor and Master degree in social sciences
 - Web development student at neue fische GmbH 
-- styding computer science 
+- studying computer science 
 
 ## Skills:
 - HTML
@@ -16,7 +16,7 @@ Hello, i'm Jore (Pronouns: he/him) and I have a strong enthusiasm for coding! Yo
 - qualitative research
 - digital art
 
-Learning:
+### Learning:
 - Java
 
 
