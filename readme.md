@@ -1,18 +1,26 @@
-# Welcome to my page 🚀! 
+# Welcome🚀! 
 
-Hello, i'm Jore (he/him; they/them) and I am currently participating in the Web Development course offered by "Neue Fische." 
+Hello, i'm Jore (Pronouns: he/him) and I have a strong enthusiasm for coding! Your nerd with soft skills 🤖
 
-I have a strong passion for coding, which is why I am excited to expand my knowledge in front-end development. 
+## Facts:
+- Bachelor and Master degree in the social sciences
+- Web development student at neue fische GmbH 
+- styding computer science 
 
-Other things i like to discover: 
-- books
-- universe
-- music
-- dnd world's
+## Skills:
+- HTML
+- CSS
+- JavaScript
+- SPSS (Basic)
+- SQL (Basic)
+- qualitative research
+- digital art
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+Learning:
+- Java
 
-![Universum](https://as1.ftcdn.net/v2/jpg/00/84/69/88/1000_F_84698832_dAuTo66TeueUCVpc7RuX6ld3n1SxlyjF.jpg)
 
+
+<img src="https://images.unsplash.com/photo-1594745087095-65dc6316dab6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dinosaurier" width="500" height="200">
+
+Making the digital space accessible for everyone 
