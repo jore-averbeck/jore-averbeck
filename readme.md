@@ -9,7 +9,7 @@ Let's make the digital space accessible ⚡️
 `HTML` `CSS` `JavaScript` `React` `Next.js` `REST API` `cloudinary` `styled-components` 
 `MongoDB` `SPSS` `SQL` `Figma` `qualitative research` `digital art` 
 
-#### Ask my about:
+#### Ask me about:
 My pop-punk band🚀
 
 
