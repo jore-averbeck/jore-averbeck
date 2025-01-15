@@ -1,4 +1,4 @@
-# 💡Hi I'm Jore! 
+# 💡Hi! 
 
 and I have a strong enthusiasm for coding! 
 Let's make the digital space accessible ⚡️
